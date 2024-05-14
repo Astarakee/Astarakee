@@ -1,5 +1,6 @@
 - 👋 Hi, This is Mehdi Astaraki.
-- 👀 I’m a post-doctoral research fellow, an active researcher, in the fields of medical image analysis, imaging biomarkers, and computer aided diagnosis. Rule-based processing techniques, biophysical modeling, and data-driven methods are my main interests when it comes to model development.
+- 👀 I am a postdoctoral researcher specializing in medical image processing and analysis. My research focuses on developing, evaluating, validating, and deploying rule-based, deep learning and machine learning models for applications in oncology, including diagnosis, prognosis, and treatment planning of brain tumors, lung tumors, bone metastases, head & neck cancers, and lymph node involvement. My methodological expertise lies in supervised learning, representation learning, active learning, and federated learning techniques, all applied to volumetric images such MRI, CT, and PET.
+
 - 📫 You can reach me via "astarakee@gmail.com"
 
 <!---
