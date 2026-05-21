@@ -1,5 +1,5 @@
 - 👋 Hi, This is Mehdi Astaraki.
-- 👀 I am a researcher specializing in medical image processing and analysis. My research focuses on developing statistical, rule-based, deep learning and machine learning models for applications in oncological image scans i.e. CT, MR, PET, multimodal etc. My methodological expertise lies in supervised learning, representation learning,  and interested in federated learning applications.
+- 👀 I am a researcher specializing in medical image processing and analysis. My research focuses on developing statistical, rule-based, deep learning and machine learning models for applications in oncological image scans i.e. CT, MR, PET, multimodal, etc.
 
 - 📫 You can reach me via "astarakee@gmail.com"
 
